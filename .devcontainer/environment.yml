@@ -1,0 +1,7 @@
+name: ai4marc
+channels:  
+ - defaults
+dependencies:  
+- python=3.11.4
+- openai  
+- python-dotenv
