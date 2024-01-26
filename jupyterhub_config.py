@@ -179,8 +179,8 @@ c = get_config()  #noqa
 # from oauthenticator.github import GitHubOAuthenticator
 # c.JupyterHub.authenticator_class = GitHubOAuthenticator
 # c.GitHubOAuthenticator.oauth_callback_url = 'http://localhost:8000/hub/oauth_callback'
-# c.GitHubOAuthenticator.client_id = '6847d9ec97eaa5a663d1'
-# c.GitHubOAuthenticator.client_secret = '19ec415b92a0c33ceaaf37b932c24680fef4c8a4'
+# c.GitHubOAuthenticator.client_id = '*****'
+# c.GitHubOAuthenticator.client_secret = '*****'
 
 
 
